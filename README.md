@@ -1,2 +1,4 @@
 # run-john-the-ripper
-put run.c & run.exe inside the johntheripper\run ,then double click the run.exe
+download john the ripper:https://www.openwall.com/john/
+
+put run.c & run.exe inside the john the ripper\run ,then double click the run.exe
